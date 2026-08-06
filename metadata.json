@@ -1,0 +1,6 @@
+{
+  "name": "SMS Online Friend",
+  "description": "Text and chat with personalized AI online friends with realistic SMS threads, voice notes, media sharing, and scheduled check-ins.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
